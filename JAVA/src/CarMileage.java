@@ -12,7 +12,7 @@ class car
 
     static void drive()
     {
-        System.out.println("car current Mileage is: "+(distance/fuelQuantity)+" km/hr");
+        System.out.println("car current Mileage is: "+(distance/fuelQuantity)+" km/hour");
     }
 
 }
