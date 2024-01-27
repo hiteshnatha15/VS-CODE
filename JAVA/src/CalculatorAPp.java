@@ -15,7 +15,7 @@ public class CalculatorAPp extends JFrame implements ActionListener
         setSize(400,200);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new FlowLayout());
-        setVisible(true);
+        setVisible(false);
 
 
 
