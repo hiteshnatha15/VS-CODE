@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    vector<int> v = {1, 2, 3, 4, 5};
+    vector<int> v = {20, 40, 60};
     for_each(v.begin(), v.end(), [](int &x)
              { x = x + 2; });
     for_each(v.begin(), v.end(), [](int x)
