@@ -47,6 +47,7 @@ async function fetchSearchWeatherInfo(cityInput) {
       `https://api.openweathermap.org/data/2.5/weather?q=${cityInput}&appid=${api}&units=metric`
     );
     const data = await response.json();
+    console.log(data);
     bufferingContainer.classList.remove("active");
     userInfoContainer.classList.add("active");
     renderWeatherInfo(data);
