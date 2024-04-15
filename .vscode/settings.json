@@ -1,6 +1,7 @@
 {
     "files.associations": {
-        "vector": "cpp"
+        "vector": "cpp",
+        "JEETU.C": "cpp"
     },
     "liveServer.settings.port": 5501
 }

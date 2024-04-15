@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 
 int main() {
     int height = 10; // Adjust the height of the tree

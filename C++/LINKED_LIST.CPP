@@ -92,7 +92,7 @@ class linkedList
     {
        if(head==NULL)
        {
-        cout<<"LIKED LIST EMPTY.";
+        cout<<"LINKED LIST EMPTY.";
        }
        else
        {
