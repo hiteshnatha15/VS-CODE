@@ -1,14 +1,14 @@
-class University:
-    def name(self):
-        print("VIT")
+# class University:
+#     def name(self):
+#         print("VIT")
 
-class exam (University):
-    def work(self):
-        print("End Sem")
+# class exam (University):
+#     def work(self):
+#         print("End Sem")
 
-MCA=exam()
-MCA.name()
-MCA.work()
+# MCA=exam()
+# MCA.name()
+# MCA.work()
 
 # the university class is inherited by admission cell that stores and collects registration number.
 #the data collected by admission cell is further inherited by the exam section

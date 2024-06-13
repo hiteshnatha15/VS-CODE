@@ -1,0 +1,6 @@
+Name: Hitesh Natha
+Reg. No.: 23MCA10099
+Courses: Python
+Courses: Java
+Courses: C++
+Courses: C
