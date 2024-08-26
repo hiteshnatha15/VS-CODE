@@ -21,7 +21,7 @@ class Sieve {
     }
 }
 
-public class simpleSieve {
+public class SimpleSeive {
     public static void main(String[] args) {
         Sieve s = new Sieve(30);
     }

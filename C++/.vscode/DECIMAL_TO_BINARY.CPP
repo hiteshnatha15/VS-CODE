@@ -3,9 +3,9 @@ using namespace std;
 
 int main()
 {
-    int ans=0;
-    int ten=1;
-    int decimal;
+    long long ans=0;
+    long long ten=1;
+    long long decimal;
     cout<<"enter the decimal number";
     cin>>decimal;
     while(decimal)
